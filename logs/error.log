@@ -158,3 +158,10 @@
 [31merror[39m: [31mtoken expiration[39m
 [31merror[39m: [31mtoken expiration[39m
 [31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] Msg : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0OTU1OGYyZDMwZGJkYzVkZDk3ZDY2ZCIsImlhdCI6MTY4ODQ1NzUxNywiZXhwIjoxNjg4NDU3NTc3fQ.NG8lbbvO_8__u4hywNZegIMyAeBMMdQBtae64RphGog[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m
+[31merror[39m: [31m[ERROR] Msg : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0OTU1OGYyZDMwZGJkYzVkZDk3ZDY2ZCIsImlhdCI6MTY4ODQ1NzcwMiwiZXhwIjoxNjg4NDU3NzYyfQ.FYXFEOErN0JSg5F3UhTvgABUth2ryBWBnVkQg9cB2jU[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m

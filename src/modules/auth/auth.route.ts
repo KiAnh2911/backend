@@ -1,11 +1,10 @@
-import { Router } from "express";
-import { Route } from "@core/interface";
-import { authMiddleware, validationMiddleware } from "@core/middleware";
-import AuthController from "./auth.controller";
-import AuthDto from "./auth.dto";
+import { Router } from 'express';
+import { Route } from '@core/interface';
+import { authMiddleware } from '@core/middleware';
+import AuthController from './auth.controller';
 
 export default class AuthRoute implements Route {
-  public path = "/api/v1/auth";
+  public path = '/api/v1/auth';
   public router = Router();
 
   public authController = new AuthController();
@@ -25,6 +24,7 @@ export default class AuthRoute implements Route {
      * LoginRes model
      * @typedef {object} TokenData
      * @property {string} token - json web token
+     * @property {string} refreshToken - json web token
      */
     /**
      * POST /api/v1/auth
@@ -39,16 +39,45 @@ export default class AuthRoute implements Route {
 
     /**
      * GET /api/v1/auth
-     * @summary API getCurrentUserLogin
+     * @summary API get current user login
      * @tags auth
      * @return {object} 200 - success response
      * @return {object} 400 - Bad request response
      * @security JWT
      */
-    this.router.get(
-      this.path,
-      authMiddleware,
-      this.authController.getCurrentLoginUser
-    ); // GET : http://localhost:5000/api/auth -> Require login
+    this.router.get(this.path, authMiddleware, this.authController.getCurrentLoginUser); // GET : http://localhost:5000/api/auth -> Require login
+
+    /**
+     * LoginRes model
+     * @typedef {object} TokenData
+     * @property {string} token - json web token
+     * @property {string} refreshToken - json web token
+     */
+    /**
+     * POST /api/v1/auth/refresh-token
+     * @summary API refresh token
+     * @tags auth
+     * @param {object} request.body.required
+     * @return {TokenData} 200 - success response
+     * @return {object} 400 - Bad request response
+     * @security JWT
+     */
+    this.router.post(this.path + '/refresh-token', this.authController.refreshToken);
+    /**
+     * LoginRes model
+     * @typedef {object} TokenData
+     * @property {string} token - json web token
+     * @property {string} refreshToken - json web token
+     */
+    /**
+     * POST /api/v1/auth/revoke-token
+     * @summary API revoke token
+     * @tags auth
+     * @param {object} request.body.required
+     * @return {TokenData} 200 - success response
+     * @return {object} 400 - Bad request response
+     * @security JWT
+     */
+    this.router.post(this.path + '/revoke-token', authMiddleware, this.authController.revokeToken);
   }
 }

@@ -1838,3 +1838,106 @@
 [32minfo[39m: [32mserver is listening on port 5000[39m
 [32minfo[39m: [32mDatabase connect....[39m
 [32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32m{[39m
+[32m  _id: new ObjectId("64a3d12dec96c816b099faef"),[39m
+[32m  user: {[39m
+[32m    _id: new ObjectId("649558f2d30dbdc5dd97d66d"),[39m
+[32m    first_name: 'ki 1',[39m
+[32m    last_name: 'Hoang',[39m
+[32m    email: 'hoangki@gmail.com',[39m
+[32m    password: '$2a$10$xR4yqfnqMGo.W56cMjT80.BiNz.OGuVMKqCx93a.L1J8nyrJajuDu',[39m
+[32m    avatar: '//www.gravatar.com/avatar/d415f0e30c471dfdd9bc4f827329ef48?size=200&rating=g&default=mm',[39m
+[32m    createdAt: 2023-06-23T08:33:54.739Z,[39m
+[32m    updatedAt: 2023-07-03T09:25:31.326Z,[39m
+[32m    __v: 0[39m
+[32m  },[39m
+[32m  token: '0ad4ee08bde6844790567345a664b9ca542859a51d0079d2af7c9b70fbb23e312d529a787566ae49',[39m
+[32m  expires: 2023-07-11T07:58:37.850Z,[39m
+[32m  created: 2023-07-04T07:58:37.852Z,[39m
+[32m  __v: 0[39m
+[32m}[39m
+[31merror[39m: [31m[ERROR] Msg : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0OTU1OGYyZDMwZGJkYzVkZDk3ZDY2ZCIsImlhdCI6MTY4ODQ1NzUxNywiZXhwIjoxNjg4NDU3NTc3fQ.NG8lbbvO_8__u4hywNZegIMyAeBMMdQBtae64RphGog[39m
+[32minfo[39m: [32mnull[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m
+[32minfo[39m: [32mnull[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m
+[31merror[39m: [31m[ERROR] Msg : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0OTU1OGYyZDMwZGJkYzVkZDk3ZDY2ZCIsImlhdCI6MTY4ODQ1NzcwMiwiZXhwIjoxNjg4NDU3NzYyfQ.FYXFEOErN0JSg5F3UhTvgABUth2ryBWBnVkQg9cB2jU[39m
+[32minfo[39m: [32mnull[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m
+[32minfo[39m: [32mnull[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32m{[39m
+[32m  _id: new ObjectId("64a3d12dec96c816b099faef"),[39m
+[32m  user: {[39m
+[32m    _id: new ObjectId("649558f2d30dbdc5dd97d66d"),[39m
+[32m    first_name: 'ki 1',[39m
+[32m    last_name: 'Hoang',[39m
+[32m    email: 'hoangki@gmail.com',[39m
+[32m    password: '$2a$10$xR4yqfnqMGo.W56cMjT80.BiNz.OGuVMKqCx93a.L1J8nyrJajuDu',[39m
+[32m    avatar: '//www.gravatar.com/avatar/d415f0e30c471dfdd9bc4f827329ef48?size=200&rating=g&default=mm',[39m
+[32m    createdAt: 2023-06-23T08:33:54.739Z,[39m
+[32m    updatedAt: 2023-07-03T09:25:31.326Z,[39m
+[32m    __v: 0[39m
+[32m  },[39m
+[32m  token: '0ad4ee08bde6844790567345a664b9ca542859a51d0079d2af7c9b70fbb23e312d529a787566ae49',[39m
+[32m  expires: 2023-07-11T07:58:37.850Z,[39m
+[32m  created: 2023-07-04T07:58:37.852Z,[39m
+[32m  __v: 0,[39m
+[32m  replacedByToken: '06cfd48cba47698b001e87049b8c1e59a95713167a20a8015a76bea0a7e6109f9dfad301c9cf6259',[39m
+[32m  revoked: 2023-07-04T07:59:38.186Z[39m
+[32m}[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Invalid refresh token[39m
+[32minfo[39m: [32m{[39m
+[32m  _id: new ObjectId("64a3d5c4d2c8decc9818fdc4"),[39m
+[32m  user: {[39m
+[32m    _id: new ObjectId("649558f2d30dbdc5dd97d66d"),[39m
+[32m    first_name: 'ki 1',[39m
+[32m    last_name: 'Hoang',[39m
+[32m    email: 'hoangki@gmail.com',[39m
+[32m    password: '$2a$10$xR4yqfnqMGo.W56cMjT80.BiNz.OGuVMKqCx93a.L1J8nyrJajuDu',[39m
+[32m    avatar: '//www.gravatar.com/avatar/d415f0e30c471dfdd9bc4f827329ef48?size=200&rating=g&default=mm',[39m
+[32m    createdAt: 2023-06-23T08:33:54.739Z,[39m
+[32m    updatedAt: 2023-07-03T09:25:31.326Z,[39m
+[32m    __v: 0[39m
+[32m  },[39m
+[32m  token: '2695a90e0a821768dd9888e965bef696e0c91f84cf59b65c60a93bc4e544853d17ca6fafdae154e4',[39m
+[32m  expires: 2023-07-11T08:18:12.726Z,[39m
+[32m  created: 2023-07-04T08:18:12.728Z,[39m
+[32m  __v: 0[39m
+[32m}[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
+[32minfo[39m: [32mDatabase connect....[39m
+[32minfo[39m: [32mserver is listening on port 5000[39m
