@@ -2,7 +2,7 @@ import express, { json } from 'express';
 import mongoose from 'mongoose';
 import hpp from 'hpp';
 import cors from 'cors';
-// import helmet from 'helmet';
+import helmet from 'helmet';
 import morgan from 'morgan';
 
 import { Route } from '@core/interface';
@@ -32,7 +32,7 @@ class App {
   private initializeMiddlewares() {
     if (this.production) {
       this.app.use(hpp());
-      // this.app.use(helmet());
+      this.app.use(helmet());
       this.app.use(morgan('combined'));
       this.app.use(cors({ origin: 'social-admin-prod.herokuapp.com', credentials: true }));
     } else {
