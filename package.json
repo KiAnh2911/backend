@@ -5,6 +5,7 @@
   "description": "A project mini social",
   "author": "KA",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "server": "nodemon src/server.ts",
     "build": "webpack",
