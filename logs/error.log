@@ -1,0 +1,160 @@
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : an unknown value was passed to the validate function[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cannot read properties of undefined (reading 'id')[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for this user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for this user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for this user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for this user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for this user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for this user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : there is not profile for this user[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{ postId: '649e40126dc181d525470049' }" (type Object) at path "_id" for model "post"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{ postId: '649e40126dc181d525470049' }" (type Object) at path "_id" for model "post"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cannot read properties of undefined (reading 'id')[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cannot read properties of undefined (reading 'id')[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cannot read properties of undefined (reading 'id')[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post is not found [39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post already liked[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post already liked[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post already liked[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post already liked[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post already liked[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post not found[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post already liked[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post has not yet been liked[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post not found[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Comment not found[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Comment not found[39m
+[31merror[39m: [31mtoken expiration[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post not found[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post not found[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Post not found[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for your user[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for target user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for target user[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : There is not profile for target user[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31mtoken expiration[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{ groupId: '64a13e58346b2bdfe84b724f' }" (type Object) at path "_id" for model "groups"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{ groupId: '64a13e1029a8fce7d8abbaba' }" (type Object) at path "_id" for model "groups"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{ groupId: '64a13e1029a8fce7d8abbaba' }" (type Object) at path "_id" for model "groups"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{ groupId: '64a13e1029a8fce7d8abbaba' }" (type Object) at path "_id" for model "groups"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{ groupId: '64a13e1029a8fce7d8abbaba' }" (type Object) at path "_id" for model "groups"[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exist[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exist[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exist[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : You has already been resquested to join this group[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : Group id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exits[39m
+[31merror[39m: [31mConnect to database error[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exits[39m
+[31merror[39m: [31m[ERROR] - 400 - Msg : User id is not exits[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : E11000 duplicate key error collection: social.users index: email_1 dup key: { email: "vvvvvvv@gmail.com" }[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "user"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "user"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "user"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "user"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "user"[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Unexpected token } in JSON at position 28[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Unexpected token } in JSON at position 28[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Unexpected token } in JSON at position 28[39m
+[31merror[39m: [31m[ERROR] - 500 - Msg : Unexpected token } in JSON at position 28[39m
+[31merror[39m: [31mtoken expiration[39m
+[31merror[39m: [31mtoken expiration[39m
+[31merror[39m: [31mtoken expiration[39m
+[31merror[39m: [31mConnect to database error[39m

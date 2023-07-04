@@ -1,0 +1,115 @@
+swagger: "2.0"
+info:
+  description: "social"
+  version: "1.0.0"
+  title: "Social"
+  termOfServicel: "http://ka.com"
+  contact:
+    email: "hoangvananh291120@gmail.com"
+  licence:
+    name: "MIT"
+    url: "https://opensource.org/license/mit/"
+host: "localhost:5000"
+basePath: "/api/v1"
+tags:
+  - name: "Auth"
+    description: "Authentication APIs"
+  - name: "User"
+    description: "User APIs"
+  - name: "Conversations"
+    description: "Message APIs"
+  - name: "Groups"
+    description: "Groups APIs"
+  - name: "Posts"
+    description: "Posts APIs"
+  - name: "Profile"
+    description: "Profile APIs"
+
+schemes:
+  - "http"
+paths:
+  /auth:
+    post:
+      tags:
+        - "Auth"
+      summary: "Login API and get token"
+      description: "Input email and password"
+      operationId: "login"
+      consumes:
+        - "application/json"
+      produces:
+        - "application/json"
+      parameters:
+        - in: "body"
+          name: "body"
+          description: "Login for user"
+          required: true
+          schema:
+            $ref: "#/definitions/LoginDto"
+      responses:
+        "400":
+          description: "Invalid input"
+    get:
+      tags:
+        - "Auth"
+      summary: "Get current user login"
+      description: "Get current user login"
+      operationId: "getCurrentUserLogin"
+      produces:
+        - "application/json"
+      responses:
+        "200":
+          description: "Successful operation"
+          schema:
+            $ref: "#/definitions/UserDto"
+        "401":
+          description: "Unauthorized"
+        "403":
+          description: "Forbidden"
+  /users:
+    post:
+      tags:
+        - "User"
+      summary: "Resgiter API and get token"
+      description: "Input fist_name, last_name, email and password"
+      operationId: "resgiter"
+      consumes:
+        - "application/json"
+      produces:
+        - "application/json"
+      parameters:
+        - in: "body"
+          name: "body"
+          description: "Resgiter for user"
+          required: true
+          schema:
+            $ref: "#/definitions/ResgiterDto"
+      responses:
+        "400":
+          description: "Invalid input"
+definitions:
+  LoginDto:
+    type: "object"
+    properties:
+      email:
+        type: "string"
+      password:
+        type: "string"
+  UserDto:
+    type: "object"
+    properties:
+      id:
+        type: "integer"
+      username:
+        type: "string"
+  ResgiterDto:
+    type: "object"
+    propeties:
+      first_name:
+        type: "string"
+      last_name:
+        type: "string"
+      email:
+        type: "string"
+      password:
+        type: "string"
